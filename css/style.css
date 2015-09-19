@@ -1,0 +1,33 @@
+body {
+  background-color: #000;
+}
+
+.container {
+  margin: 10px;
+  box-sizing: border-box;
+}
+
+.main_header {
+  background-color: white;
+  box-sizing: inherit;
+}
+
+.sub_header {
+  background-color: red;
+  box-sizing: inherit;
+}
+
+.left {
+  background-color: green;
+  float: left;
+  width: 66%;
+  padding: 20px;
+  box-sizing: inherit;
+}
+
+.right {
+  background-color: blue;
+  margin-left: 66%;
+  padding: 20px;
+  box-sizing: inherit;
+}
