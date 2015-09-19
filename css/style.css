@@ -1,3 +1,13 @@
+/*
+
+I learned a few new things by creating this page. I made use of: 
+- height in the parent HTML and BODY elements
+- box-sizing
+
+I would like to learn a little more and come back to refactor and improve this page.
+
+*/
+
 html, body {
   background-color: #85855C;
   height: 100%;
