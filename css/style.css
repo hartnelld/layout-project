@@ -14,13 +14,13 @@ html, body {
   box-sizing: inherit;
   display: inline-block;
   width: 100%;
+  padding: 5px 20px;
 }
 
 .sub_header {
   background-color: #FF9999;
   box-sizing: inherit;
-  padding-top: 5px;
-  padding-bottom: 5px;
+  padding: 5px 20px;
 }
 
 .left {
