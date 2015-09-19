@@ -1,6 +1,6 @@
 layout-project
 __Author:__ Daniel Hartnell
-__Class:__ Introduction to Programming Course
+__Class:__ Evening Introduction to Programming Course
 
 ## Description
 
