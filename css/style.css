@@ -1,20 +1,26 @@
-body {
-  background-color: #000;
+html, body {
+  background-color: #85855C;
+  height: 100%;
 }
 
 .container {
   margin: 10px;
   box-sizing: border-box;
+  height: 100%;
 }
 
 .main_header {
-  background-color: white;
+  background-color: #C2E0FF;
   box-sizing: inherit;
+  display: inline-block;
+  width: 100%;
 }
 
 .sub_header {
-  background-color: red;
+  background-color: #FF9999;
   box-sizing: inherit;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 .left {
@@ -23,11 +29,13 @@ body {
   width: 66%;
   padding: 20px;
   box-sizing: inherit;
+  height: 100%;
 }
 
 .right {
-  background-color: blue;
+  background-color: #66A3FF;
   margin-left: 66%;
   padding: 20px;
   box-sizing: inherit;
+  height: 100%;
 }
